@@ -8,7 +8,7 @@ class Converter:
     def __init__(self):
 
         # Formatting variables...
-        background_color = "dim gray"
+        background_color = "#B3B3B3"
 
         # Converter Main Screen GUI..
         self.converter_frame = Frame(width=600, height=600, bg=background_color,
